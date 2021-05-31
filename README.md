@@ -3,4 +3,8 @@
 Prácticas con GIT
 
 >Juego de tecleo
-cambio
+
+###cambio local
+
+****Modificado en github
+
